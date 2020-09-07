@@ -5,4 +5,4 @@ I'm Breanna, a research analyst moonlighting as a first-year PhD student in the 
 
 You can find me on:
 - Twitter [@BreannaEGreen](https://twitter.com/breannaegreen)
-- [Linkedin] (https://www.linkedin.commwlite/in/breanna-green-71361538)
+- [Linkedin](https://www.linkedin.commwlite/in/breanna-green-71361538)
