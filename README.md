@@ -1,4 +1,4 @@
-I'm Breanna, a research analyst moonlighting as a [first-year PhD student](https://infosci.cornell.edu/content/green) in the [Information Science department](https://infosci.cornell.edu/) at Cornell University. Working on research involving extremism, radicalization, and activism via social media. *Honestly, truly, I have no idea what I'm doing... But I'm willing to figure it out!*
+I'm Breanna, a research analyst moonlighting as a [second-year PhD student](https://infosci.cornell.edu/content/green) in the [Information Science department](https://infosci.cornell.edu/) at Cornell University. Working on research involving extremism, radicalization, and activism via social media. **
 
 - Reside in Ithaca, New York
 - 📫 How to reach me: [Personal Website](https://bregreen.github.io/) 
