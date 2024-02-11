@@ -4,7 +4,7 @@ Tools, Methods, Primary Sources of Data: Computational Social Science, NLP, APIs
 
 - Reside in Ithaca, New York
 - 📫 How to reach me: [Personal Website](https://bregreen.github.io/) 
-- 😄 Pronouns: She/Her(s)/They/Them
+- 😄 Pronouns: She/Her(s)
 
 You can find me on:
 - Twitter [@BreannaEGreen](https://twitter.com/breannaegreen)
